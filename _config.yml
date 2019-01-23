@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://sephcoster.com"
+url: "sephcoster.com"
 title: sephcoster.com
-description: "Sure, why not." # used by search engines
+description: "A personal website of questionable utility." # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
@@ -14,21 +14,21 @@ theme_settings:
   gravatar: # Email MD5 hash
 
   # Header and footer text
-  header_text: A website of questionable merit.
+  header_text: "A personal website of questionable utility"
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
     Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "sephcoster@gmail.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "sephcoster"
   google_plus:
   instagram:
   keybase:
@@ -39,20 +39,20 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: "sephcoster"
   vimeo:
   wordpress:
   youtube:
   
   # Sharing options
   share_buttons:
-    facebook: true
+    facebook:
     twitter: true
-    google_plus: true
+    google_plus:
     tumblr:
     pinterest:
     pocket:
-    reddit: true
+    reddit:
     linkedin:
     wordpress:
     email: true
