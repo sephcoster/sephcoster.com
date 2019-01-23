@@ -8,8 +8,8 @@ description: "A personal website of questionable utility." # used by search engi
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: sephcoster.com
-  avatar: assets/img/triangle.svg
+  title: Seph Coster.com
+  avatar: assets/img/avatar.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
